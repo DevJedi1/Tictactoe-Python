@@ -6,7 +6,7 @@
 
 * The game is very simple and may not look too good, but it works.
 
-* *********      **********8                         DISCLAIMER:      ******************                             * **** * *
+* *********      **********                        DISCLAIMER:      ******************                             * **** * *
 * If you intend to run the game, it may not work in the normal terminal, you may need to use the debug terminal in order to run the game. *
 
                                                        THANKS!
